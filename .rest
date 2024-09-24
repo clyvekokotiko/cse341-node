@@ -1,0 +1,20 @@
+## Local Links
+# Home page 
+GET http://localhost:27017/
+
+# Get all contacts 
+
+GET http://localhost:27017/contacts
+
+# Get single contact example
+
+GET http://localhost:27017/contacts/66f19763189da08438bf16db
+
+
+## Published Links 
+# Home 
+GET https://cse341-node-qf26.onrender.com
+# Get all contacts
+GET https://cse341-node-qf26.onrender.com/contacts
+# Get single contact example
+https://cse341-node-qf26.onrender.com/contacts/66f19763189da08438bf16db
